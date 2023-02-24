@@ -7,6 +7,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polianas&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polianas&layout=compact&theme=radical)
+<img align="right" alt="poli-gif" height="140" width="130"
+       src="https://i.picasion.com/pic92/89b647b0874073e2c8b4eaf6278f8b62.gif" />
 
  ##
  
@@ -31,6 +33,7 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Polianas-mysql" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  
 
   </div>
 
