@@ -12,6 +12,7 @@
        src="https://i.picasion.com/pic92/89b647b0874073e2c8b4eaf6278f8b62.gif" />
 
  ##
+ ##
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Polianas-vscode" height="30" width="40"
@@ -38,6 +39,7 @@
 
   </div>
 
+ ##
  ##
  <img align="center" alt="sms" height="50" width="40"
        src="https://cdn-icons-png.flaticon.com/512/1034/1034524.png" /> Contate-me:
