@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polianas&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polianas&layout=compact&theme=radical)
 
-<img align="right" alt="poli-gif" height="120" width="110"
+<img align="right" alt="poli-gif" height="170" width="160"
        src="https://i.picasion.com/pic92/89b647b0874073e2c8b4eaf6278f8b62.gif" />
 
  ##
@@ -41,7 +41,7 @@
 
  ##
  ##
- <img align="center" alt="sms" height="50" width="40"
+ <img align="center" alt="sms" height="60" width="60"
        src="https://cdn-icons-png.flaticon.com/512/1034/1034524.png" /> Contate-me:
 
  <div> 
