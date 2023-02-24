@@ -1,6 +1,6 @@
 #### Ola, sou a Poliana Carneiro 
 
-- 🖥️ Hoje trabalho como Analista de Sistemas, mas a procura da primeira vaga como Desenvolvedora 😊
+- 🖥️ Estou em transição de aréa, ja trabalhei no Suporte, Analise, Gestão de Projetos e Administração de Banco de Dados, mas a procura da primeira vaga como Desenvolvedora 😊
 - 🎓 Formada em Analise e Desenvolvimento de Sistemas
 - 🌱 Estudando JavaScript
 
