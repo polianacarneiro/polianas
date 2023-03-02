@@ -1,9 +1,13 @@
-#### Ola, sou a Poliana Carneiro 
 
-- 🖥️ Estou em transição de aréa, ja trabalhei no Suporte, Analise, Gestão de Projetos e Administração de Banco de Dados, mas a procura da primeira vaga como Desenvolvedora 😊
-- 🎓 Cursando Analise e Desenvolvimento de Sistemas
-- 🌱 Estudando SAP
+#### Oi, sou a Poliana Carneiro 
 
+- 🖥️ estou em transição de aréa, ja trabalhei com Suporte, Analise, Gestão de Projetos e Administração de Banco de Dados, mas a procura da primeira vaga como Desenvolvedora.
+
+- 🎓 cursando Analise e Desenvolvimento de Sistemas.
+
+- 🌱 estudando SAP.
+
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polianas&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polianas&layout=compact&theme=radical)
