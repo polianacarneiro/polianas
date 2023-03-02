@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polianas&layout=compact&theme=radical)
 
 <img align="right" alt="poli-gif" height="170" width="160"
-       src="https://i.picasion.com/pic92/89b647b0874073e2c8b4eaf6278f8b62.gif" />
+       src="https://i.picasion.com/pic92/b96b6323a6820b933f6b6630535469ca.gif" />
 
  ##
  ##
