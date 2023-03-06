@@ -5,7 +5,7 @@
 
 - 🎓 cursando Analise e Desenvolvimento de Sistemas.
 
-- 🌱 JavaScript/TypeScript.
+- 🌱 estudando JavaScript/TypeScript.
 
 ##
 
