@@ -5,7 +5,7 @@
 
 - 🎓 cursando Analise e Desenvolvimento de Sistemas.
 
-- 🌱 estudando SAP.
+- 🌱 JavaScript/TypeScript.
 
 ##
 
