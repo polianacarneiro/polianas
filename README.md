@@ -1,5 +1,5 @@
 
-#### Oi, sou a Poliana Carneiro 
+<h1 align="center"> Oi, sou a Poliana Carneiro </h1>
 
 - 🖥️ estou em transição de aréa, ja trabalhei com Suporte, Analise, Gestão de Projetos e Administração de Banco de Dados, mas a procura da primeira vaga como Desenvolvedora.
 
@@ -8,9 +8,28 @@
 - 🌱 estudando JavaScript/TypeScript.
 
 ##
+<img align="center" alt="grafico" height="60" width="60"
+       src="https://user-images.githubusercontent.com/72111743/223485605-dd9313e5-0d21-47e4-8967-f270204fc805.png"/> GitHub Status
+       
+<div style="display: flex;" align="center">
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=polianas&count_private=true&show_icons=true&theme=radical&hide_border=true" 
+          alt="poliana" />
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=polianas&show_icons=true&locale=en&count_private=true&show_icons=true&theme=radical&hide_border=true"
+          alt="poliana" />
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polianas&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polianas&layout=compact&theme=radical)
+<br/>
+<div style="display: flex;" align="center">
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=polianas&show_icons=true&theme=radical&hide_border=true&layout=compact" 
+          alt="languages" />
+</div>
+          
 
 <img align="right" alt="poli-gif" height="170" width="160"
        src="https://i.picasion.com/pic92/0cbbacf1ff6d8351c9212a89c4040a2a.gif" />
